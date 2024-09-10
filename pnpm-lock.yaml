@@ -148,8 +148,8 @@ importers:
         specifier: 1.0.0
         version: 1.0.0
       html-entities:
-        specifier: ~1.4.0
-        version: 1.4.0
+        specifier: ~2.5.2
+        version: 2.5.2
       promise-polyfill:
         specifier: 8.3.0
         version: 8.3.0
@@ -8556,7 +8556,6 @@ packages:
 
   /html-entities@2.5.2:
     resolution: {integrity: sha512-K//PSRMQk4FZ78Kyau+mZurHn3FH0Vwr+H36eE0rPbeYkRRi9YxceYPhuN60UwWorxyKHhqoAJl2OFKa4BVtaA==}
-    dev: true
 
   /html-escaper@2.0.2:
     resolution: {integrity: sha512-H2iMtd0I4Mt5eYiapRdIDjp+XzelXQ0tFE4JS7YFwFevXXMmOp9myNrUvCg0D6ws8iqkRPBfKHgbwig1SmlLfg==}
